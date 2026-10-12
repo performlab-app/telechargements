@@ -1,11 +1,11 @@
 {
-  "version": "3.0.1",
-  "notes": "- PerformLab a sa propre icône, la même que celle de l'application de tes athlètes : un carré bleu marqué « PL », dans le menu et dans la barre des tâches.\n- L'écran du premier lancement tient maintenant en entier dans la fenêtre, sans barre de défilement.",
-  "pub_date": "2026-10-11T19:43:11Z",
+  "version": "3.0.2",
+  "notes": "- Correction : si tu reviens à une version précédente de PerformLab, l'écran qui s'affiche te propose maintenant de restaurer la copie de tes données faite juste avant la mise à jour.",
+  "pub_date": "2026-10-12T06:04:36Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK3BwcDhzMVJQS1QwajhaSFlDK0pLSVNFcXhhZjlFUy9ERFBBTlFnenBrR3F3MDdYbzRiV3ArZXZEcjlXWXNBTXkyMmc5WnFlNFlwYVhXS2JvZS9vVnUvQlZXMU41d2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzQ3Nzc5CWZpbGU6UGVyZm9ybUxhYl8zLjAuMV9hbWQ2NC5BcHBJbWFnZQprVjVYVzl1dWZXcElCQVJEbmV0VktwYmQzZHZFRW1YUktDQmxhRHVQZjhtT1VESzBXMjAwSWF2ZGIxTkNqcm9OWTU0UGszeDUreTA2UHhTdjZhMzBDQT09Cg==",
-      "url": "https://github.com/performlab-app/telechargements/releases/download/v3.0.1/PerformLab_3.0.1_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK3BwcDhzMVJQS1hsZlhDNHNIZm5QVXRXcHN0MktrS0taek1VanpUWkVlbjBrK1B5dERzOGcxS2RSSjQ4U1hXaVdsaVlUR1ZvMUhoZjdDNjF5eEh6a1A1b2Z3L1kwUHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzg1MDY0CWZpbGU6UGVyZm9ybUxhYl8zLjAuMl9hbWQ2NC5BcHBJbWFnZQpTQnJSR1hMYWFEU1U2WFBUM1laRDUvR3Uzb2NFd3RGTjFLK1E2Z2FMRmszNFdTQkRtYm8vWUgzQ25mVitmbitLR1ZFS0tML2RPU0k5MkdXajJ3ZHVDZz09Cg==",
+      "url": "https://github.com/performlab-app/telechargements/releases/download/v3.0.2/PerformLab_3.0.2_amd64.AppImage"
     }
   }
 }
