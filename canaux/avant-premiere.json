@@ -1,11 +1,11 @@
 {
-  "version": "3.0.2",
-  "notes": "- Correction : si tu reviens à une version précédente de PerformLab, l'écran qui s'affiche te propose maintenant de restaurer la copie de tes données faite juste avant la mise à jour.",
-  "pub_date": "2026-10-12T06:04:36Z",
+  "version": "3.1.0",
+  "notes": "- Inviter un athlète : tu choisis maintenant son téléphone — iPhone, Android ou « Je ne sais pas » — et le message à lui transmettre s'adapte. PerformLab retient ton choix pour la prochaine invitation.\n- Les athlètes sous Android peuvent utiliser l'application dans leur navigateur, sans l'installer ; l'installation leur est seulement proposée.\n- Correction : dans le message d'invitation, plus d'espace en trop avant la virgule après le prénom.\n- Correction : la durée estimée d'une séance restait parfois à 00:00 pendant sa création.\n- Guide du mode connecté : explications plus exactes sur l'hébergement, le chiffrement et la création du jeton.\n- Si une mise à jour est refusée faute de dossier de sauvegarde, le message explique mieux pourquoi.\n- Correction : quand un athlète termine une séance, le Hub et l'Agenda affichés se mettent à jour tout seuls, sans changer d'écran.",
+  "pub_date": "2026-10-13T14:42:12Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK3BwcDhzMVJQS1hsZlhDNHNIZm5QVXRXcHN0MktrS0taek1VanpUWkVlbjBrK1B5dERzOGcxS2RSSjQ4U1hXaVdsaVlUR1ZvMUhoZjdDNjF5eEh6a1A1b2Z3L1kwUHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzg1MDY0CWZpbGU6UGVyZm9ybUxhYl8zLjAuMl9hbWQ2NC5BcHBJbWFnZQpTQnJSR1hMYWFEU1U2WFBUM1laRDUvR3Uzb2NFd3RGTjFLK1E2Z2FMRmszNFdTQkRtYm8vWUgzQ25mVitmbitLR1ZFS0tML2RPU0k5MkdXajJ3ZHVDZz09Cg==",
-      "url": "https://github.com/performlab-app/telechargements/releases/download/v3.0.2/PerformLab_3.0.2_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK3BwcDhzMVJQS1VjUkR2UjNqQ291ZmhDaHJRTGZ4dGRXaFJMQm4zV3dUeHlDdFJuVHVCSHZYREM5bW4xSEkvc3JkcTBQWW91MDNKak1uM3hDejRURlllOWpqanRVZFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTAyNTIyCWZpbGU6UGVyZm9ybUxhYl8zLjEuMF9hbWQ2NC5BcHBJbWFnZQpvbDU4K3NZbk10TGhuNHp6eUd6Q0VqMHQ0TVk5WkhZTTk3WlB1UFpkNi9ucjcxTDFPWjIxS1NBLzZZNmtWTC9jVy9iQXFxYjJhL0V3VXp1ZDNkcGtDQT09Cg==",
+      "url": "https://github.com/performlab-app/telechargements/releases/download/v3.1.0/PerformLab_3.1.0_amd64.AppImage"
     }
   }
 }
